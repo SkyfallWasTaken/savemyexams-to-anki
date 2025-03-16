@@ -14,6 +14,11 @@ Sleep 500ms
 Type@0 'https://www.savemyexams.com/gcse/english-literature/aqa/17/flashcards/1-shakespeare/macbeth/"'
 Enter
 Sleep 2s
+
+Hide
+Type@0 'clear' Enter
+Show
+
 Type "# We can reverse the term/definition too"
 Sleep 500ms
 Enter

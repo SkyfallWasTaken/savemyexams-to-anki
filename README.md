@@ -1,6 +1,6 @@
 # SaveMyExams to Anki converter
 
-![Made with VHS](https://vhs.charm.sh/vhs-788uvnzHZbGjEXXOwe99aH.gif)
+![Made with VHS](https://vhs.charm.sh/vhs-4gAPvyNwMfUWj415GiK0I6.gif)
 
 A simple tool to convert SaveMyExams flashcards into Anki decks.
 
